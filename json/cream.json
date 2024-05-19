@@ -1,0 +1,22 @@
+[
+    {
+        "name":"קרם נוגט",
+        "src":".././images/cream/נוגט.jpg",
+        "code":"1"
+    },
+    {
+        "name":"קרם וניל",
+        "src":".././images/cream/וניל.jpg",
+        "code":"2"
+    },
+    {
+        "name":"קרם ריבת חלב",
+        "src":".././images/cream/ריבת-חלב.jpg",
+        "code":"3"
+    },
+    {
+        "name":"קרם תות",
+        "src":".././images/cream/תות.jpg",
+        "code":"4"
+    }
+]

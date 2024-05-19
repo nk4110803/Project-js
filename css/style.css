@@ -1,0 +1,183 @@
+a {
+    text-decoration: none;
+}
+.pink{
+    color: #f0576b;
+    font-family: system-ui;
+    font-size: larger;
+}
+.overlay-image {
+    padding: 10%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.about{
+    background-color: #8dd1ca;
+}
+.purple-text{
+    color: #531243;
+    text-align: right;
+    margin: 5%;
+    font-family: system-ui;
+    font-size: larger;
+}
+.branches{
+    background-color: #fef0db;
+    width: 100%;
+}
+.branch{
+    height: min-content;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-bottom: #8dd1ca;
+    border-style: initial;
+    border-width: 7px;
+}
+.line{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+@media (max-width: 800px) {
+    .responsive-image {
+        display: none;
+    }
+    #logIn{
+        margin-top: 10px;        
+    }
+}
+.end{        
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #531243; 
+    height: 200px;
+}
+.purple-text2{
+    color: #531243;
+    text-align: right;
+    margin: 5%;
+    font-family: system-ui;
+    font-weight: bold;
+    width: 400%;
+}
+.event {
+   background-color: #FEF0DB;
+   position: relative;
+   background-image: url("../images/Feel-free-to-lick.png");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: contain;
+}
+.all{
+    background-color: #fef0db; 
+    background-image: url("../images/רקע\ להתחברות.png");
+    background-repeat: no-repeat;
+    background-size:65%;  
+    background-position:left;
+}
+@media (max-width: 1300px) {
+    .all {
+      background-image: none;
+    }
+  }
+.purple-textt{
+    color: #531243;
+    margin: 2%;
+    font-family: system-ui;
+    font-weight: bold;
+    font-size:xx-large;
+}
+.conectt{
+   margin-left: 30%;
+   color:#531243 ;
+}
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    align-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 20%;
+    flex-wrap: wrap;
+}
+.products{
+    display: flex;
+    justify-content: space-evenly;
+    align-content:space-around ;
+    flex-wrap: wrap;
+}
+.product{
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    background-size: contain;
+    width: 400px;
+    height: 350px;
+    border-style: solid;
+    background-repeat: no-repeat;
+    border-color: #f0576b;
+    margin-bottom: 20px;
+}
+.productName{
+    margin-bottom: 25px;
+    font-family: system-ui;
+    font-size:xx-large;
+    font-weight: bolder;
+    color: #f0576b;
+}
+#ourp{
+    background-image: url('../images/products/המוצרים\ שלנו.png');
+}
+#cold{
+    background-image: url('../images/products/שתיה\ קרה.png');
+}
+#hot{
+    background-image: url('../images/products/שתיה\ חמה.png');
+}
+.product1{
+    display: flex;
+    align-items: end;
+    justify-content: space-around;
+    background-size: contain;
+    margin-bottom: 50px;
+    width: 400px;
+    height: 350px;
+    border-style: solid;
+    background-repeat: no-repeat;
+    border-color: #f0576b;
+}
+.product2{
+    display: flex;
+    align-items: end;
+    justify-content: space-around;
+    background-size: contain;
+    width: 200px;
+    height: 230px;
+    border-style: solid;
+    background-repeat: no-repeat;
+    border-color: #f0576b;
+    color :#f0576b;
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+.after{
+    border-color: #531243;
+    color: #531243;
+}
+
+.bimg{
+    width: 70px;
+}
+.bcnt{
+    width: 70px;
+}
+
+#cbody{
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+}
+

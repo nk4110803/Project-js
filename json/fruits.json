@@ -1,0 +1,39 @@
+[
+    {
+        "name":"מנגו",
+        "src":".././images/fruits/מנגו.jpg",
+        "code":"1"
+    },
+    
+    {
+        "name":"אננס",
+        "src":".././images/fruits/אננס.png",
+        "code":"2"
+    },
+    {
+        "name":"דובדבנים",
+        "src":".././images/fruits/דובדבנים.png",
+        "code":"3"
+    },
+    {
+
+        "name":"ענבים",
+        "src":".././images/fruits/ענבים.png",
+        "code":"4"
+    },
+    {
+        "name":"פרות יער",
+        "src":".././images/fruits/פרות-יער.jpg",
+        "code":"5"
+    },
+    {
+        "name":"קיווי",
+        "src":".././images/fruits/קיווי.png",
+        "code":"6"
+    },
+    {
+        "name":"תות",
+        "src":".././images/fruits/תות.png",
+        "code":"7"
+    }
+]

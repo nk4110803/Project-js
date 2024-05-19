@@ -1,0 +1,132 @@
+[
+    {
+        "name":"תות",
+        "src":"./../images/ice-cream/פרווה-סורבה-תות.png",
+        "code":"1"
+    },
+    {
+        "name":"שוקולד שוויצרי",
+        "src":"../images/ice-cream/חלבי-שוקולד-שוויצרי-2.png",
+        "code":"2"
+    },
+    {
+        "name":"פיסטוק",
+        "src":"../images/ice-cream/פיסטוק.png",
+        "code":"3"
+    },
+    {
+        "name":"פסיפלורה",
+        "src":"../images/ice-cream/פרווה-סורבה-פסיפלורה.png",
+        "code":"4"
+    },
+    {
+        "name":"סורבה לימונענע",
+        "src":"../images/ice-cream/פרווה-סורבה-לימונענע.png",
+        "code":"5"
+    },
+    {
+        "name":"וניל צרפתי",
+        "src":"../images/ice-cream/וניל-צרפתי-55.png",
+        "code":"6"
+    },
+    {
+        "name":"פררו רושה",
+        "src":"../images/ice-cream/פרווה-פררו-רושה.png",
+        "code":"7"
+    },
+    {
+        "name":"פירות יער",
+        "src":"../images/ice-cream/פרווה-סורבה-פירות-יער-2.png",
+        "code":"8"
+    },
+    {
+        "name":"מנגו",
+        "src":"../images/ice-cream/פרווה-סורבה-מנגו.png",
+        "code":"9"
+    },
+    {
+        "name":"שוקולד מריר",
+        "src":"../images/ice-cream/פרווה-שוקולד-מריר.png",
+        "code":"10"
+    },
+    {
+        "name":"רום צימוקים",
+        "src":"../images/ice-cream/חלבי-רום-צימוקים.png",
+        "code":"11"
+    },
+    {
+        "name":"אוראו",
+        "src":"../images/ice-cream/אוראו.png",
+        "code":"12"
+    },
+    {
+        "name":"קוקוס",
+        "src":"../images/ice-cream/קוקוס.png",
+        "code":"13"
+    },
+    {
+        "name":"קינדר בואנו",
+        "src":"../images/ice-cream/חלבי-קינדר-בואנו.png",
+        "code":"14"
+    },
+    {
+        "name":"טופי קרמל",
+        "src":"../images/ice-cream/חלבי-טופי-קרמל.png",
+        "code":"15"
+    },
+    {
+        "name":"פררו רושה",
+        "src":"../images/ice-cream/חלבי-פררו-רושה.png",
+        "code":"16"
+    },
+    {
+        "name":"לוטוס",
+        "src":"../images/ice-cream/חלבי-עוגיות-לוטוס2.png",
+        "code":"17"
+    },
+    {
+        "name":"מסטיק",
+        "src":"../images/ice-cream/מסטיק.png",
+        "code":"18"
+    },
+    {
+        "name":"וניל צ'יפ",
+        "src":"../images/ice-cream/חלבי-וניל-ציפ.png",
+        "code":"19"
+    },
+    {
+        "name":"קרמל מלוח",
+        "src":"../images/ice-cream/חלבי-קרמל-מלוח-2.png",
+        "code":"20"
+    },
+    {
+        "name":"פקאן סיני",
+        "src":"../images/ice-cream/חלבי-פקאן-סיני.png",
+        "code":"21"
+    },
+    {
+        "name":"אספרסו",
+        "src":"../images/ice-cream/חלבי-אספרסו-2.png",
+        "code":"22"
+    },
+    {
+        "name":"דובדבנים בשמנת",
+        "src":"../images/ice-cream/דובדבנים-בשמנת.png",
+        "code":"23"
+    },
+    {
+        "name":"שוקולד בלגי",
+        "src":"../images/ice-cream/שוקולד-בלגי.png",
+        "code":"24"
+    },
+    {
+        "name":"וניל איטלקי",
+        "src":"../images/ice-cream/וניל-איטלקי-55.png",
+        "code":"25"
+    },
+    {
+        "name":"תות בננה",
+        "src":"../images/ice-cream/חלבי-תות-בננה-2.png",
+        "code":"26"
+    }
+]

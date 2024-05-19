@@ -1,0 +1,253 @@
+[
+    {
+        "name":"מים",
+        "src":".././images/drinkCold/מים.jpg",
+        "price":"5",
+        "code":"c1",
+        "select":"false",
+        "amount":"1"
+
+    },
+    {
+        "name":"מים בטעם אפרסק",
+        "src":".././images/drinkCold/מים-בטעם-אפרסק.jpg",
+        "price":"7",
+        "code":"c2",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"מים בטעם ענבים",
+        "src":".././images/drinkCold/מים-בטעם-ענבים.jpg",
+        "price":"7",
+        "code":"c3",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"מים בטעם תפוח",
+        "src":".././images/drinkCold/מים-בטעם-תפוח.jpg",
+        "price":"7",
+        "code":"c4",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"סודה",
+        "src":".././images/drinkCold/סודה.jpg",
+        "price":"6",
+        "code":"c5",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"ספרייט",
+        "src":".././images/drinkCold/ספרייט.jpg",
+        "price":"8",
+        "code":"c6",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"zero ספרייט",
+        "src":".././images/drinkCold/ספרייט-זירו.jpg",
+        "price":"8",
+        "code":"c7",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"פיוזטי אננס",
+        "src":".././images/drinkCold/פיוזטי-אננס.jpg",
+        "price":"8",
+        "code":"c8",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"פיוזטי אפרסק",
+        "src":".././images/drinkCold/פיוזטי-אפרסק.jpg",
+        "price":"8",
+        "code":"c9",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"מיץ תפוחים",
+        "src":".././images/drinkCold/פריגת-תפוחים.jpg",
+        "price":"9",
+        "code":"c10",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"קוקה קולה",
+        "src":".././images/drinkCold/קוקה-קולה.jpg",
+        "price":"9",
+        "code":"c11",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"zero קוקה קולה",
+        "src":".././images/drinkCold/קוקה-קולה-זירו.jpg",
+        "price":"9",
+        "code":"c12",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"שייק פרות",
+        "src":".././images/drinkCold/שייק-פרות.jpg",
+        "price":"30",
+        "code":"c13",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"משקה קינדר לוז",
+        "src":".././images/drinkCold/משקה-קינדר-לוז.jpg",
+        "price":"32",
+        "code":"c14",
+        "select":"false",
+        "amount":"1"
+
+
+
+    },
+    {
+        "name":"פיסטוק שוקולד לבן",
+        "src":".././images/drinkCold/פיסטוק-שוקולד-לבן.jpg",
+        "price":"32",
+        "code":"c15",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"קוקיז שייק",
+        "src":".././images/drinkCold/קוקיז-שיק.jpg",
+        "price":"32",
+        "code":"c16",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"מילקשייק",
+        "src":".././images/drinkCold/מילקשיק.jpg",
+        "price":"29",
+        "code":"c17",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"גרניטה פקאן",
+        "src":".././images/drinkCold/גרניטה-פקאן.jpg",
+        "price":"24",
+        "code":"c18",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"צאי קר",
+        "src":".././images/drinkCold/צאי-קר.jpg",
+        "price":"23",
+        "code":"c19",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"קפה קפוא",
+        "src":".././images/drinkCold/קפה-קפוא.jpg",
+        "price":"20",
+        "code":"c20",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"חליטת גן עדן",
+        "src":".././images/drinkCold/חליטת-גן-עדן.jpg",
+        "price":"18",
+        "code":"c21",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"בנקוק שייק",
+        "src":".././images/drinkCold/בנקוק-שייק.jpg",
+        "price":"32",
+        "code":"c22",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"קפה קר",
+        "src":".././images/drinkCold/קפה-קר.jpg",
+        "price":"19",
+        "code":"c23",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"שוקו קר",
+        "src":".././images/drinkCold/שוקו-קר.jpg",
+        "price":"17",
+        "code":"c24",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"תה קר בטעמים",
+        "src":".././images/drinkCold/תה-קר-בטעמים.jpg",
+        "price":"12",
+        "code":"c25",
+        "select":"false",
+        "amount":"1"
+
+    }
+
+
+]

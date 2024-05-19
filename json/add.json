@@ -1,0 +1,52 @@
+[
+  {
+    "name":"אגוזים",
+    "src":"./../images/add/אגוזים.png",
+    "cod":"1"
+  },
+  {
+    "name":"גליליות",
+    "src":"./../images/add/גליליות.jpg",
+    "cod":"2"   
+  },
+  {
+    "name":"מקופלת חום",
+    "src":"./../images/add/מקופלת-חום.jpg",
+    "cod":"3"  
+  },
+  {
+    "name":"מקופלת לבן",
+    "src":"./../images/add/מקופלת-לבנה.jpg",
+    "cod":"4"  
+  },
+  {
+    "name":"מרשמלו",
+    "src":"./../images/add/מרשמלו.jpg",
+    "cod":"5"     
+  },
+  {
+    "name":"סוכריות",
+    "src":"./../images/add/סוכריות.jpg",
+    "cod":"6"    
+  },
+  {
+    "name":"עדשים",
+    "src":"./../images/add/עדשים.jpg",
+    "cod":"7" 
+  },
+  {
+    "name":"פקאן",
+    "src":"./../images/add/פקאן.jpg",
+    "cod":"8" 
+  },
+  {
+    "name":"קוקוס טחון",
+    "src":"./../images/add/קוקוס.jpg",
+    "cod":"9" 
+  },
+  {
+    "name":"קרוקנט",
+    "src":"./../images/add/קרוקנט.jpg",
+    "cod":"10" 
+  }
+]

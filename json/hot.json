@@ -1,0 +1,122 @@
+[
+    {
+        "name":"קפה שחור",
+        "src":"./../images/drink/hot/קפה-שחור.jpg",
+        "price":"10",
+        "code":"h1",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"חליטת ג'ינג'ר",
+        "src":"../images/drink/hot/חליטת-גינגר.jpg",
+        "price":"18",
+        "code":"h2",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"חליטת גן עדן",
+        "src":"./../images/drink/hot/חליטת-גן-עדן.jpg",
+        "price":"18",
+        "code":"h3",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"משקה בריאות",
+        "src":"./../images/drink/hot/משקה-בריאות.jpg",
+        "price":"20",
+        "code":"h4",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"משקה עוגיות",
+        "src":"./../images/drink/hot/משקה-עוגיות.jpg",
+        "price":"28",
+        "code":"h5",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"משקה פיסטוק",
+        "src":"./../images/drink/hot/משקה-פיסטוק.jpg",
+        "price":"32",
+        "code":"h6",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"סחלב",
+        "src":"./../images/drink/hot/סחלב.jpg",
+        "price":"26",
+        "code":"h7",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"סיידר",
+        "src":"./../images/drink/hot/סיידר.jpg",
+        "price":"20",
+        "code":"h8",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"צ'אי",
+        "src":"./../images/drink/hot/צאי.jpg",
+        "price":"23",
+        "code":"h9",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"שוקו פרלינים",
+        "src":"./../images/drink/hot/שוקו-פרלין.jpg",
+        "price":"22",
+        "code":"h10",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"תה",
+        "src":"./../images/drink/hot/תה.jpg",
+        "price":"11",
+        "code":"h11",
+        "select":"false",
+        "amount":"1"
+
+
+    },
+    {
+        "name":"קינד לוז",
+        "src":"./../images/drink/hot/קינדר-לוז.jpg",
+        "price":"32",
+        "code":"h12",
+        "select":"false",
+        "amount":"1"
+
+
+    }
+]
